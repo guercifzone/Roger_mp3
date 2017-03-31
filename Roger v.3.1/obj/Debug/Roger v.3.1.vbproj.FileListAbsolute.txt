@@ -1,0 +1,15 @@
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\bin\Debug\Roger v.3.1.exe.config
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\bin\Debug\Roger v.3.1.exe
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\bin\Debug\Roger v.3.1.pdb
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\bin\Debug\Roger v.3.1.xml
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\obj\Debug\Roger_v._3._1.Form1.resources
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\obj\Debug\Roger_v._3._1.Resources.resources
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\obj\Debug\Roger v.3.1.vbproj.GenerateResource.Cache
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\obj\Debug\Roger v.3.1.exe
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\obj\Debug\Roger v.3.1.xml
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\obj\Debug\Roger v.3.1.pdb
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\obj\Debug\Interop.WMPLib.dll
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\obj\Debug\Roger v.3.1.vbproj.ResolveComReference.cache
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\sadik_000\documents\visual studio 2013\Projects\Roger v.3\Roger v.3.1\bin\Debug\AxInterop.WMPLib.dll
